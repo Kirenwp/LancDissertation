@@ -1,4 +1,6 @@
 ##2023/8/3
 取消了swin_unet的训练，进入下一步骤，short plants 
 可以连接到本地运行，但是drive文件夹即在线功能无法使用
-发邮件打算购买google pro+
+发邮件打算购买google pro
+
+设置tile 为128后运行非常顺畅,但是精度有所降低
